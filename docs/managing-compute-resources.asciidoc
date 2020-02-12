@@ -46,7 +46,7 @@ spec:
 
 [float]
 [id="{p}-compute-resources-kibana-and-apm"]
-==== Set compute resources for Kibana and APM Server
+==== Set compute resources or Kibana and APM Server
 
 For Kibana or APM Server objects, the `podTemplate` can be configured as follows:
 
